@@ -1,4 +1,4 @@
- """qdynamics - time-evolution layer for the Chapter 6 dynamic models.
+"""qdynamics - time-evolution layer for the Chapter 6 dynamic models.
 
 Markov (Kolmogorov) and quantum (Schrodinger) dynamics on a one-dimensional
 belief scale, following eq. 6.1-6.3 of QCD2-BB. Complements the static primitives
@@ -72,3 +72,4 @@ def prob_guilty_quantum(psi, MG):
     """Quantum probability of responding 'guilty': ||MG psi||^2."""
     v = MG @ psi
     return float(np.real(np.vdot(v, v)))
+
