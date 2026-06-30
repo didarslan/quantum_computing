@@ -3,3 +3,5 @@ __pycache__/
 .ipynb_checkpoints/
 *.egg-info/
 .venv/
+notebooks/03_HW4_Paradoxes.ipynb
+notebooks/04_HW6_Dynamics.ipynb

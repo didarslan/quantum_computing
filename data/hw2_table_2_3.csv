@@ -1,5 +1,10 @@
-# Placeholder for HW2 Table 2.3 data
-sample,frequency
-A,100
-B,80
-C,20
+quantity,value
+p_A_plus,0.85
+p_A_minus,0.15
+p_A_plus_B_plus,0.69
+p_A_plus_B_minus,0.16
+p_A_plus_B_plus_C_plus,0.29
+theta_b_degrees,50.57
+theta_c_degrees,98.96
+phi_b_degrees,0.0
+phi_c_degrees,93.84
